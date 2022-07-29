@@ -1,1 +1,1 @@
-# ☠️ Scraping Tutorial
+# Scraping Tutorial
